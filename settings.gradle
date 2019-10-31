@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':jokes-Library', ':jokesandroidlibrary'
 rootProject.name='Library-Jokes'
